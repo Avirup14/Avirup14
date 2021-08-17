@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhirup Roy
 - 👀 I’m interested in new technologies and I love to learn them
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on python related to projects and groups 
+- 💞️ I’m looking to collaborate on open source based and AI, ML based Projects
 - 📫 Mail me at avirup14@gmail.com
 
 <!---
